@@ -28,7 +28,6 @@ int main(void){
     char resp;
     printf("\n*****************************");
     printf("\n   Max Suel Santos Batista   ");
-    printf("\n   R.A:20103540-5            ");
     printf("\nCurso Engenharia de Software ");
     printf("\n********************************");
     Cabecalho();
