@@ -1,6 +1,7 @@
 # **Mapa_Da_Faculdade**
 
  ## **Atividade Mapa da Faculdade de Engenharia De Software Em Linguagem C**
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" style="max-width:100%;"></img>
  ***
  
  **_Informações sobre o programa_**
